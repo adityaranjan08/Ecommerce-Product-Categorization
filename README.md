@@ -46,16 +46,4 @@
    - Run the model training script (e.g., `python train.py`).
    - This script might involve loading the data, preprocessing, training the model, and saving the trained model weights.
 
-5. **Evaluation:**
-   - Run the model evaluation script (if provided).
-   - This script might assess the model's performance on a validation set using metrics like accuracy, precision, recall, and F1-score.
-
-**Contribution Guidelines:**
-
-- Consider including instructions on how to contribute to the project (e.g., forking, pull requests, coding style guide).
-
-**Additional Information:**
-
-* Include references to any relevant machine learning libraries, tutorials, or research papers used in the project.
-* Provide contact information or a discussion forum link for users to ask questions or report issues.
 
